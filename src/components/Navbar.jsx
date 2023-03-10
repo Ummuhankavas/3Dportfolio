@@ -19,7 +19,7 @@ const Navbar = () => {
             window.scrollTo(0,0);
           }}>
           <img src={logo} alt='logo' className='w-12 h-12 object-contain' />
-          <p className='text-white text-[18px] font-bold cursor pointer flex'>
+          <p className='text-white text-[15px] font-bold cursor pointer flex'>
             Ümmühan &nbsp;
             <span className='sm:block hidden'>| Developer</span>
           </p>
