@@ -3,7 +3,7 @@ import { progress } from 'framer-motion';
 
 const Loader = () => {
 
-  const { progres } = useProgress();
+  const { progress } = useProgress();
 
   return (
     <Html>
